@@ -1,5 +1,5 @@
 # MP12
-Problem A:
+### Problem A:
 
 Tropical cyclones derive their energy from the latent heat of condensation which made them exist only over the oceans and die out rapidly on land. One of its distinguishing features is its having a central sea-level pressure of 900 mb or lower and surface winds often exceeding 100 knots. They reach their greatest intensity while located over warm tropical waters and they begin to weaken as they move inland. The intensity of tropical cyclones vary, thus, we can classify them based upon their degree of intensity. The classification of tropical cyclones according to the strength of the associated winds are as follows:
 
@@ -16,7 +16,7 @@ All you have to do is ask the user to enter a wind speed (proper error checks mu
 **NOTE: For Problem A, name your file yourFamilyName4-a.c**
 
 
-Problem B:
+### Problem B:
 
 The Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAG- ASA) is a national institution under the Department of Science and Technology (DOST). It is dedicated to provide ﬂood and typhoon warnings, public weather forecasts and advisories, meteorological, astronomical, climatological and other specialized information and services pri- marily for the protection of life and property and in support of economic productivity and sustainable development. We have the following color-coded warning signals from the URL: http://www.gov.ph/how-to-make-sense-of-pagasas-color-coded-warning-signals/
 

@@ -7,4 +7,4 @@ Make three different programs. Name each file yourFamily3a (for first file), you
 
 3. Ask the user to enter 4 numbers. Consider the first two as one fraction and the second two as another. Display in fraction form when the second fraction is subtracted from the first. Your answer is not necessarily in the lowest terms and should be in fraction form.
 
-Note: if you need to ask for multiple inputs, just the same, use scanf: `scanf("%i%i",&x,&y);`
+**Note: if you need to ask for multiple inputs, just the same, use scanf: `scanf("%i%i",&x,&y);`**

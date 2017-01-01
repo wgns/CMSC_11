@@ -13,7 +13,7 @@ TYPHOON, an intense tropical cyclone with maximum wind speed exceeding 118 kph.
 
 All you have to do is ask the user to enter a wind speed (proper error checks must be made) and tell the user what kind of a tropical disturbance it is.
 
-NOTE: For Problem A, name your file yourFamilyName4-a.c
+**NOTE: For Problem A, name your file yourFamilyName4-a.c**
 
 
 Problem B:

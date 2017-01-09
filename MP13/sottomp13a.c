@@ -12,7 +12,7 @@ int main() {
 	while (ctr < 5) {
 		cm = km / .1;
 		km = cm;
-		ctr = ctr+1;
+		ctr = ctr + 1;
 	}
 
 	printf("\n%i km is equivalent to %i cm.\n", var, cm);
